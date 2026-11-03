@@ -33,4 +33,11 @@ WHERE A > B
 ```
 
 
-This is where I built my first portfolio while learning at the Incubator Hub
+### VIUALIZATION
+
+<img width="1128" height="943" alt="PIE CHART" src="https://github.com/user-attachments/assets/0d5cea5f-73ae-4205-8c8b-181380e039fa" />
+
+<img width="5000" height="2813" alt="Bar-Chart-01" src="https://github.com/user-attachments/assets/023c39d5-35d2-41b9-8473-3f2085365292" />
+
+
+
