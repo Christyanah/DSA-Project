@@ -24,5 +24,13 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 2. Handling missing variables
 3. Data Cleaning and formatting
 
+### Data Analysis
+
+E.g
+```
+SELECT A,B,C
+WHERE A > B
+```
+
 
 This is where I built my first portfolio while learning at the Incubator Hub
