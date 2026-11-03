@@ -17,5 +17,12 @@ This Data Analysis project aims to generate insight into the sales performance o
 - Power Bi (For creating a report)
 - Ms power Point (For presentation)
 
+### Data Cleaning and Preparation
+
+In the initial phase of the Data cleaning and preparations, we perform the following action:
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+
 
 This is where I built my first portfolio while learning at the Incubator Hub
